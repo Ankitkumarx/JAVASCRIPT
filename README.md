@@ -11,6 +11,7 @@ This folder contains JavaScript practice files for learning fundamental concepts
 - `variable.js` - demonstrates variable declaration, initialization, and input handling with Node.js readline.
 - `operators.js` - demonstrates arithmetic, assignment, comparison, logical, and type-reassignment examples.
 - `Typecoersion.js` - examples of JavaScript type coercion behavior.
+- `Object.js` - demonstrates JavaScript objects, properties, and methods.
 - `loop.js` - examples of loop structures and iteration.
 - `if_else.js` - examples of conditional statements.
 
